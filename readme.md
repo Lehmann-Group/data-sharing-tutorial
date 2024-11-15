@@ -1,6 +1,6 @@
 # Data Sharing Tutorial
 
-Version 2.0
+Version 2.1
 
 ## Sharing Code and Data via Github
 1. Create / sign into a GitHub Account
